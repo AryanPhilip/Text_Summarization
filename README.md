@@ -1,6 +1,6 @@
 # Project: Topic modeling using latent semantic analysis (LSA)
-# Course: DSC 291 A: Numerical Linear Algebra for Data Science
-# Instructor: Dr. Tsui-wei Weng
+### Course: DSC 291 A: Numerical Linear Algebra for Data Science
+### Instructor: Dr. Tsui-wei Weng
 
 Instructions:
 Ensure that the following libraries are installed in python 3 environment:
