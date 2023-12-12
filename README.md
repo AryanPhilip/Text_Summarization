@@ -27,6 +27,14 @@ The project focuses on Extractive Text Summarization using two techniques: Laten
 
 Feel free to explore the notebook to understand the implementation details and insights gained through Extractive Summarization using LSA and BERT. Disclaimer this is just the inference notebook, the full code will be available however, it requires a GPU to run and is trained on a different dataset.
 
+Table: A comparison between BERT and LSA
+|   Metric   |  BERT  |   LSA   |
+|:-----------:|:------:|:-------:|
+|  ROUGE-1    | 0.3804 |  0.5582 |
+|  ROUGE-2    | 0.3666 |  0.5464 |
+|  ROUGE-L    | 0.3804 |  0.5582 |
 
+
+![BERT_ROUGE_Metric](https://github.com/AryanPhilip/Text_Summarization/assets/150488197/2ec95432-92c2-4a02-ab8c-28b35d8a8c5a)
 
 
