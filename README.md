@@ -90,9 +90,8 @@ open up you local host and port
 
 
 ```bash
-Author: Krish Naik
-Data Scientist
-Email: krishnaik06@gmail.com
+Author: Aryan Philip
+Email: arphilip@ucsd.edu
 
 ```
 
