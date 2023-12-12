@@ -1,23 +1,33 @@
-# Project: Topic modeling using latent semantic analysis (LSA)
-### Course: DSC 291 A: Numerical Linear Algebra for Data Science
-### Instructor: Dr. Tsui-wei Weng
+# Project: Extractive Text Summarization using Latent Semantic Analysis (LSA) and BERT
 
-#### Instructions:
-* Ensure that the following libraries are installed in python 3 environment:
-  - scikit-learn
-  - tqdm
-  - nltk
-  - umap
-  - matplotlib
-  - seaborn
-  - wordcloud
+## Course Information
 
-* Open Latent_Semantic_Analysis.ipynb and run all the cells of the notebook.
+- **Course:** DSC 212 A: Numerical Linear Algebra for Data Science
+- **Instructor:** Dr. Tsui-wei Weng
 
-#### Results:
+## Instructions
 
-* **Latent Semantic Analysis (LSA)**
+Before running the notebook, make sure to have the following Python libraries installed in your environment:
 
+- [scikit-learn](https://scikit-learn.org/)
+- [tqdm](https://github.com/tqdm/tqdm)
+- [nltk](https://www.nltk.org/)
+- [transformers](https://huggingface.co/transformers) (for BERT)
+
+### Running the Notebook
+
+1. Open `Extractive_Summarization_BERT.ipynb`.
+2. Run all the cells of the notebook.
+
+## Results
+
+The project focuses on Extractive Text Summarization using two techniques: Latent Semantic Analysis (LSA) and BERT. These methods are implemented in the context of the DSC 212 course, Numerical Linear Algebra for Data Science.
+
+Feel free to explore the notebook to understand the implementation details and insights gained through Extractive Summarization using LSA and BERT. Disclaimer this is just the inference notebook, the full code will be available however, it requires a GPU to run
+
+---
+
+*Note: Make sure to replace the placeholder links in the instructions with the actual URLs of the libraries if necessary.*
 Top 5 words for each of the topics:
 <img width="828" alt="Screen Shot 2022-04-15 at 9 20 17 AM" src="https://user-images.githubusercontent.com/18485647/163595256-eaa19d1b-9c52-4cd2-9a63-b1dbcd728d23.png">
 
