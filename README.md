@@ -37,4 +37,5 @@ Table: A comparison between BERT and LSA
 
 ![BERT_ROUGE_Metric](https://github.com/AryanPhilip/Text_Summarization/assets/150488197/2ec95432-92c2-4a02-ab8c-28b35d8a8c5a)
 
+![LSA ROUGE Metric](https://github.com/AryanPhilip/Text_Summarization/assets/150488197/4ad4c227-de14-4876-aad8-40f571510e1b)
 
