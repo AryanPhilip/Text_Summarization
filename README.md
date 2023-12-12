@@ -4,7 +4,7 @@
 
 - **Course:** DSC 212 A: Numerical Linear Algebra for Data Science
 - **Instructor:** Dr. Tsui-wei Weng
-
+- **Group Members:** Aryan Philip, Asher Jacob, Saloni Reddy, Shivani Patnaik
 ## Instructions
 
 Before running the notebook, make sure to have the following Python libraries installed in your environment:
